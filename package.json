@@ -37,11 +37,19 @@
       "last 1 safari version"
     ]
   },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarolineFell/ra-homeworks-forms.git"
+  },
   "keywords": [
     "forms"
   ],
   "author": "CarolineFell",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarolineFell/ra-homeworks-forms/issues"
+  }
 }
